@@ -6,10 +6,6 @@
 
 </div>
 
-<p align="center">
-🚀 Construindo soluções full-stack com Python no back-end e HTML/CSS/JS no front — sempre com Git e Docker no fluxo de trabalho.
-</p>
-
 <br>
 
 <p align="center">
@@ -23,7 +19,7 @@
 
 <br>
 
-<h3 align="center">💻 Linguagens</h3>
+<h2 align="center">💻 Linguagens</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68" />
@@ -32,13 +28,13 @@
   <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logoColor=9ece6a" />
 </p>
 
-<h3 align="center">🧩 Frameworks & Runtimes</h3>
+<h2 align="center">🧩 Frameworks & Runtimes</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a" />
   <img src="https://img.shields.io/badge/Tkinter-1a1b27?style=for-the-badge&logoColor=bb9af7" />
 </p>
 
-<h3 align="center">🛠️ Ferramentas</h3>
+<h2 align="center">🛠️ Ferramentas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=f7768e" />
   <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" />
