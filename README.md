@@ -9,12 +9,12 @@
 <br>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=TheHenrique&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="120" />
-  <img src="https://streak-stats.demolab.com/?user=TheHenrique&theme=tokyonight&hide_border=true&background=1a1b27" height="120" />
+  <img src="https://github-stats-extended.vercel.app/api?username=TheHenrique&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=TheHenrique&theme=tokyonight&hide_border=true&background=1a1b27" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheHenrique&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheHenrique&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="240" />
 </p>
 
 <br>
