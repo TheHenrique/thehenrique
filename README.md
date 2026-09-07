@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheHenrique&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="240" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheHenrique&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" height="320" />
 </p>
 
 <br>
