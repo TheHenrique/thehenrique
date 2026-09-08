@@ -22,7 +22,7 @@
 <h2 align="center">💻 Linguagens</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7aa2f7" />
-  <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=e0af68" />
+  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=3178c6" />
   <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e" />
   <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7dcfff" />
   <img src="https://img.shields.io/badge/SQL-1a1b27?style=for-the-badge&logoColor=9ece6a" />
