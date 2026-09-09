@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b4261,100:7aa2f7&height=220&section=header&text=Henrique%20Lustosa&fontSize=46&fontColor=c0caf5&fontAlignY=36&desc=Full-Stack%20Python%20Developer&descAlignY=56&descSize=18&descColor=7dcfff&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=480&lines=Python;HTML5;CSS3;Git+%26+Docker;Node.js)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=480&lines=Python;TypeScript;HTML5;CSS3;Git+%26+Docker;Node.js)](https://git.io/typing-svg)
 
 </div>
 
